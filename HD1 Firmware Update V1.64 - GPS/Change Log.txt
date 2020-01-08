@@ -1,0 +1,6 @@
+HD1 Firmware V1.64 Update Changelog:
+1. Issue the RX group list problem: Although TG9£¨for example£©is in the RX group list, but also cant receive its signal. 
+2. Issue the problem that doesn't display the contact name when choosing Rx group members. 
+3. Added total 42 digital DCS tones. 
+D036I, D053I, D122I, D145I, D212I, D225I, D246I, D252I, D255I, D2661I, D274I, D325I, D332I, D356I, D446I, D452I, D455I, D454I, D462I, D523I, D526I, D036N, D053N, 
+D122N, D145N, D145N, D212N, D225N, D246N, D252N, D255N, D266N, D274N,D325N, D332N, D356N, D446N, D452N, D454N, D455N, D462N, D523N, D526N  

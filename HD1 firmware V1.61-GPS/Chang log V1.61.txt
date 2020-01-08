@@ -1,0 +1,4 @@
+Firmware Version V1.61 
+
+1. Radio side button increase Repeater Reverse function. 
+2. Improve radio frozen up problem.
